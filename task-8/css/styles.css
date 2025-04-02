@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+nav {
+    margin-bottom: 20px;
+}
+a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+.view {
+    display: none;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+.active {
+    display: block;
+}
