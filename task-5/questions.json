@@ -1,0 +1,17 @@
+[
+    {
+        "question": "Which year did Real Madrid win their 10th Champions League title (La Decima)?",
+        "options": ["2012", "2014", "2016", "2018"],
+        "answer": "2014"
+    },
+    {
+        "question": "How many Ballon d'Or titles has Cristiano Ronaldo won?",
+        "options": ["3", "5", "7", "6"],
+        "answer": "5"
+    },
+    {
+        "question": "Which club did Ronaldo join after leaving Real Madrid in 2018?",
+        "options": ["Manchester United", "Juventus", "Sporting CP", "PSG"],
+        "answer": "Juventus"
+    }
+]
